@@ -75,7 +75,7 @@
     "randexp": "^0.4.9",
     "ssh2": "^0.8.7",
     "url-join": "^4.0.0",
-    "uuid": "^3.2.1"
+    "uuid": "^8.3.0"
   },
   "devDependencies": {
     "ava": "^2.1.0",
