@@ -52,7 +52,7 @@
     "babel-preset-env": "^1.7.0",
     "fs-extra": "^5.0.0",
     "nyc": "^14.0.0",
-    "webpack": "~4.5.0",
+    "webpack": "~4.44.2",
     "webpack-cli": "~2.0.14"
   }
 }
