@@ -67,7 +67,7 @@
     "lodash.omitby": "^4.6.0",
     "lodash.pick": "^4.4.0",
     "mime-types": "^2.1.22",
-    "node-forge": "^0.7.1",
+    "node-forge": "^0.10.0",
     "p-limit": "^2.0.0",
     "p-map": "^1.2.0",
     "p-retry": "^4.2.0",
