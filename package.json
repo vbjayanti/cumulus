@@ -78,7 +78,7 @@
   },
   "dependencies": {
     "aws-sdk": "^2.585.0",
-    "fs-extra": "^5.0.0",
+    "fs-extra": "^9.1.0",
     "latest-version": "^4.0.0",
     "semver": "^5.5.0",
     "ssh2-streams": "^0.4.8"

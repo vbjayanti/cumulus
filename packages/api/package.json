@@ -119,7 +119,7 @@
     "babel-plugin-source-map-support": "^2.1.1",
     "babel-preset-env": "^1.7.0",
     "copy-webpack-plugin": "^4.6.0",
-    "fs-extra": "^7.0.0",
+    "fs-extra": "^9.1.0",
     "lodash.isnumber": "^3.0.3",
     "lodash.map": "^4.6.0",
     "lodash.range": "^3.2.0",
