@@ -53,7 +53,7 @@
     "lodash.get": "^4.4.2",
     "lodash.isundefined": "^3.0.1",
     "lodash.keyby": "^4.6.0",
-    "nock": "^12.0.1",
+    "nock": "^13.0.7",
     "rewire": "^4.0.1",
     "xml2js": "^0.4.23"
   },
