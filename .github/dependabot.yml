@@ -1,0 +1,38 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: ajv
+    versions:
+    - 7.0.3
+    - 7.0.4
+    - 7.1.1
+    - 7.2.1
+    - 7.2.3
+    - 8.0.1
+  - dependency-name: googleapis
+    versions:
+    - 67.0.0
+    - 67.1.1
+    - 68.0.0
+  - dependency-name: nock
+    versions:
+    - 13.0.5
+    - 13.0.7
+    - 13.0.9
+  - dependency-name: markdownlint-cli
+    versions:
+    - 0.26.0
+  - dependency-name: boolean
+    versions:
+    - 3.0.2
+  - dependency-name: webpack
+    versions:
+    - 4.44.2
+  - dependency-name: fs-extra
+    versions:
+    - 9.0.1
