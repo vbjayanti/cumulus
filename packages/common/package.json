@@ -44,7 +44,7 @@
     "@cumulus/checksum": "1.19.0",
     "@cumulus/errors": "1.19.0",
     "@cumulus/logger": "1.19.0",
-    "ajv": "^5.2.2",
+    "ajv": "^8.6.2",
     "aws-sdk": "^2.585.0",
     "follow-redirects": "^1.2.4",
     "fs-extra": "^5.0.0",
